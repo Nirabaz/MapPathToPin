@@ -1,0 +1,24 @@
+PODS:
+  - Alamofire (4.7.3)
+  - JGProgressHUD (2.0.3)
+  - ReachabilitySwift (4.3.0)
+
+DEPENDENCIES:
+  - Alamofire (~> 4.7)
+  - JGProgressHUD
+  - ReachabilitySwift
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - JGProgressHUD
+    - ReachabilitySwift
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  JGProgressHUD: 12b20a8f4ffe05258f8635c1ab92816e451f904d
+  ReachabilitySwift: 408477d1b6ed9779dba301953171e017c31241f3
+
+PODFILE CHECKSUM: 70bdfb38c433117e188fadd78f2bf695b567cf86
+
+COCOAPODS: 1.5.3
